@@ -1,2 +1,1 @@
-# prepcourse-henry
-este es un repositorio de prueba del momdulo 2 de prep
+prueba de como crear un repositorio y luego clonarlo desde github a mi computadora 
